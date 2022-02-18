@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://divyaraj-parmar.github.io/csb-g8hpu/static/css/main.59c54f63.chunk.css",
+    "main.js": "https://divyaraj-parmar.github.io/csb-g8hpu/static/js/main.548e36a2.chunk.js",
+    "main.js.map": "https://divyaraj-parmar.github.io/csb-g8hpu/static/js/main.548e36a2.chunk.js.map",
+    "runtime-main.js": "https://divyaraj-parmar.github.io/csb-g8hpu/static/js/runtime-main.c0f1b3a0.js",
+    "runtime-main.js.map": "https://divyaraj-parmar.github.io/csb-g8hpu/static/js/runtime-main.c0f1b3a0.js.map",
+    "static/js/2.9b559ee3.chunk.js": "https://divyaraj-parmar.github.io/csb-g8hpu/static/js/2.9b559ee3.chunk.js",
+    "static/js/2.9b559ee3.chunk.js.map": "https://divyaraj-parmar.github.io/csb-g8hpu/static/js/2.9b559ee3.chunk.js.map",
+    "index.html": "https://divyaraj-parmar.github.io/csb-g8hpu/index.html",
+    "static/css/main.59c54f63.chunk.css.map": "https://divyaraj-parmar.github.io/csb-g8hpu/static/css/main.59c54f63.chunk.css.map",
+    "static/js/2.9b559ee3.chunk.js.LICENSE.txt": "https://divyaraj-parmar.github.io/csb-g8hpu/static/js/2.9b559ee3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0f1b3a0.js",
+    "static/js/2.9b559ee3.chunk.js",
+    "static/css/main.59c54f63.chunk.css",
+    "static/js/main.548e36a2.chunk.js"
+  ]
+}
